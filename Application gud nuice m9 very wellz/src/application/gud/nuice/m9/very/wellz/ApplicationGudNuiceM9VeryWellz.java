@@ -8,7 +8,7 @@ package application.gud.nuice.m9.very.wellz;
 import java.util.Random;
 
 /**
- *
+ * Im a banana
  * @author 2160472
  */
 public class ApplicationGudNuiceM9VeryWellz {
@@ -18,9 +18,12 @@ public class ApplicationGudNuiceM9VeryWellz {
               for(int i=0; i< 5; i++){
                    System.out.println("Random number is : " + genRandom());
               }
-           }
+           }    // i do wat i want
 
            public static int genRandom(){
               return randomNum.nextInt(100);
            }
 }
+
+//tehreelsupahsand waz here
+//https://www.youtube.com/watch?v=22bfsbEhle8
