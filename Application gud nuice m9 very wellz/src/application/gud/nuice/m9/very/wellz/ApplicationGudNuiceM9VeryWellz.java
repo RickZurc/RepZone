@@ -23,7 +23,16 @@ public class ApplicationGudNuiceM9VeryWellz {
            public static int genRandom(){
               return randomNum.nextInt(100);
            }
+    
 }
 //Osama Spin Laden Dropping the beats like the twin towers
 //tehreelsupahsand waz here
 //https://www.youtube.com/watch?v=22bfsbEhle8
+
+
+public class HelloWorld {
+   public static void main(String[] args) {
+      // Prints "Hello, World" in the terminal window.
+      System.out.println("Hello, World");
+   }
+}
